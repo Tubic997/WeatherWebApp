@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
-    background: #20201D;
+    background-image: url("./img1.jpg");
     font-size: 80%;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .card {
-    background: #003151;
+    background: #0B3223;
     color: #FFFFFF;
     padding: 2em;
     border-radius: 30px;
